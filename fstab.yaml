@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://0115-103-43-112-97.ngrok-free.app/bin/franklin.delivery/sakshi-arora1/edsFeature/main
+    type: "markup"
+    suffix: ".html"
