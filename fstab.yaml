@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://44f8-103-43-112-97.ngrok-free.app/bin/franklin.delivery/sakshi-arora1/edsFeature/main
+    url: https://c1a9-103-43-112-97.ngrok-free.app/bin/franklin.delivery/sakshi-arora1/edsFeature/main
     type: "markup"
     suffix: ".html"
